@@ -86,7 +86,7 @@ export const NavBar = () => {
                 <img src={navIcon3} alt="" />
               </a>
             </div>
-            <button className="resume">
+            <button className="navCta">
               <span>Resume</span>
             </button>
           </span>
